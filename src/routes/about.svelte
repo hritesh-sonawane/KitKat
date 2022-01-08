@@ -1,3 +1,8 @@
+<script>
+	import Title from '$lib/title.svelte';
+</script>
+
+<Title title="Demon Slayer Corps Reviews" />
 <div class="about">
 	<h2>About Page</h2>
 	<p>
@@ -7,7 +12,7 @@
 		sets out on a dangerous journey to find a way to return his sister to normal and destroy the
 		Demon who ruined his life.
 	</p>
-    <a href="/guides">View Guides</a>
+	<a href="/guides">View Guides</a>
 	<a href="/">Home</a>
 </div>
 
