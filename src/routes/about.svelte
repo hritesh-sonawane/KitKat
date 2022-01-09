@@ -1,8 +1,6 @@
 <script>
-	import Title from '$lib/title.svelte';
 </script>
 
-<Title title="Demon Slayer Corps Reviews" />
 <div class="about">
 	<h2>About Page</h2>
 	<p>

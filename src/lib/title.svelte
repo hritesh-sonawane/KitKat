@@ -19,7 +19,7 @@
 		margin-left: 10px;
 	}
 	.img {
-		width: 100px;
+		width: 75px;
 		height: auto;
 	}
 </style>

@@ -1,9 +1,8 @@
 <script>
-	import Title from '$lib/title.svelte';
 </script>
 
-<Title />
 <div class="index">
+	<h2>Welcome!</h2>
 	<p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro.</p>
 
 	<a href="/guides">View Guides</a>
