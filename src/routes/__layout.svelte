@@ -4,15 +4,13 @@
 </script>
 
 <header>
-	<Title title="Demon Slayer Corps Guide" />
+	<Title title="Demon Slayer Corps" />
 </header>
-
 <main>
-	<!-- page content -->
 	<slot />
 </main>
 <footer>
-	<p>Copyright 2022 DSCG</p>
+	<p>Copyright 2022 Demon Slayer Corps</p>
 </footer>
 
 <style>

@@ -1,7 +1,7 @@
 <div class="guides">
 	<ul>
-		<li><a href="/">Demon Slayer 1</a></li>
-		<li><a href="/">Demon Slayer 2</a></li>
+		<li><a href="/">Guide 1</a></li>
+		<li><a href="/">Guide 2</a></li>
 	</ul>
 </div>
 
